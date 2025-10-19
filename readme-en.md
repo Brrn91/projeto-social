@@ -8,9 +8,9 @@ This project was developed as HTML and CSS training, focusing on semantic struct
 
 ## 🖼️ Demo
 
-![Project Screenshot](preview.jpg)
+![Project Screenshot](preview.png)
 
-👉 [Access the project online](https://yourusername.github.io/projeto-social/)
+👉 [Access the project online](https://brrn91.github.io/projeto-social/)
 
 ---
 

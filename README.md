@@ -7,9 +7,9 @@ Projeto desenvolvido como treino de **HTML e CSS**, com foco em **estrutura sem�
 
 ## 🖼️ Demonstração  
 
-![Screenshot do Projeto](preview.jpg)  
+![Screenshot do Projeto](preview.png)  
 
-👉 [Acesse o projeto online](https://seuusuario.github.io/projeto-social/)  
+👉 [Acesse o projeto online](https://brrn91.github.io/projeto-social/)  
 
 ---
 
@@ -18,12 +18,12 @@ Projeto desenvolvido como treino de **HTML e CSS**, com foco em **estrutura sem�
 - **HTML5** (estrutura semântica)  
 - **CSS3** (estilização e responsividade)  
 - **Flexbox** para organização do layout  
-- Fonte personalizada via **Google Fonts** ou sistema padrão   
+- Fonte personalizada via **Google Fonts** ou sistema padrão
 
 ---
 
 ## ⚙️ Funcionalidades  
- 
+
 - ✅ Layout responsivo para diferentes dispositivos (desktop / tablet / mobile)  
 - ✅ Menus de navegação
 - ✅ Uso de semântica HTML para melhor acessibilidade  
