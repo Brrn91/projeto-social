@@ -19,6 +19,7 @@ Projeto desenvolvido como treino de **HTML e CSS**, com foco em **estrutura sem�
 - **CSS3** (estilização e responsividade)  
 - **Flexbox** para organização do layout  
 - Fonte personalizada via **Google Fonts** ou sistema padrão
+- **Figma**
 
 ---
 

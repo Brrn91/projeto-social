@@ -20,6 +20,7 @@ This project was developed as HTML and CSS training, focusing on semantic struct
 - **CSS3** (styling and responsiveness)
 - **Flexbox** for layout organization
 - Custom font via **Google Fonts** or default system
+- **Figma**
 
 ---
 
